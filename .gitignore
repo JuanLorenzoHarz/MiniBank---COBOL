@@ -1,0 +1,14 @@
+# Arquivos gerados pelo MiniBank
+saldo.txt
+historico.txt
+
+# Executáveis e artefatos de compilação
+*.exe
+*.o
+*.obj
+*.dll
+*.so
+banco
+
+# Arquivos temporários do editor
+.vscode/
